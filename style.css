@@ -1,0 +1,23 @@
+
+.project-container{
+    background-color: #1A1E1C;
+    margin: 0 auto;
+    border: 0.09375rem solid black;
+    width: 101.3125rem;
+    height: 334rem;
+    padding-top: 14.75rem;
+    padding-left: 4.1875rem;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    background-image: url(./bg.png);
+    background-size: cover;
+    width: 90rem;
+    height: 317.25rem;
+}
+
+h1{
+    color: aliceblue;
+}
